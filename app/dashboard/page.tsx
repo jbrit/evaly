@@ -254,7 +254,7 @@ export default function Home() {
               className="h-16"
               data={last30Minutes}
               categories={["users"]}
-              index="users"
+              index="time"
               showXAxis={false}
               showYAxis={false}
               showLegend={false}
